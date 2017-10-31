@@ -14,6 +14,8 @@
 
 #### For the web, open the index.html file in the browser and check the console
 
+<br>
+
 #### For [node](https://nodejs.org/en/), do:
 
     $ node index.js
