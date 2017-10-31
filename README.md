@@ -2,13 +2,15 @@
 
 <br>
 
-### Getting started (make sure you have [npm/node](https://nodejs.org/en/) installed)
+#### First make sure you have [npm/node](https://nodejs.org/en/) installed
 
-#### Clone the repository, then install the dependencies with 
+#### Now clone the repository and install the dependencies
 
     $ git clone https://github.com/dhowe/rita-template.git
     $ cd rita-template
     $ npm install
+
+<br>
 
 #### For the web, open the index.html file in the browser and check the console
 
