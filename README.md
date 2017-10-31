@@ -1,9 +1,15 @@
-### a simple template for RiTa projects with node or the browser
+### A simple template for RiTa projects with node or the browser
 
 <br>
 
-Clone the repository, then open [index.html](https://github.com/dhowe/rita-template/blob/master/index.html) in the browser
+#### Clone the repository, then open [index.html](https://github.com/dhowe/rita-template/blob/master/index.html) in the browser
 
-Or, for [node](https://nodejs.org/en/), navigate to the directory then do:
+
+#### Or, for [node](https://nodejs.org/en/), navigate to the directory then do:
 
     $ node index.js
+    
+
+#### To add other libraries do:
+
+    $ npm install --save library-name
