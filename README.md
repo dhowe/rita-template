@@ -2,8 +2,8 @@
 
 <br>
 
-Clone the repository, then open index.html in the browser
+Clone the repository, then open [index.html](https://github.com/dhowe/rita-template/blob/master/index.html) in the browser
 
-Or, for node, navigate to the directoy then do:
+Or, for [node](https://nodejs.org/en/), navigate to the directory then do:
 
     $ node index.js
