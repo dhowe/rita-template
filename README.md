@@ -1,5 +1,7 @@
 ## A simple template for RiTa projects (with node or the browser)
 
+<br>
+
 ### Getting started (make sure you have [npm/node](https://nodejs.org/en/) installed)
 
 #### Clone the repository, then install the dependencies with 
