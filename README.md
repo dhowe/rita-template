@@ -1,9 +1,26 @@
-### a simple template for RiTa projects with node or the browser
+## A simple template for RiTa projects (with node or the browser)
 
 <br>
 
-Clone the repository, then open index.html in the browser
+#### First make sure you have [npm/node](https://nodejs.org/en/) installed
 
-Or, for node, navigate to the directoy then do:
+#### Now clone the repository and install the dependencies
+
+    $ git clone https://github.com/dhowe/rita-template.git
+    $ cd rita-template
+    $ npm install
+
+<br>
+
+#### For the web, open the index.html file in the browser and check the console
+
+<br>
+
+#### For [node](https://nodejs.org/en/), do:
 
     $ node index.js
+    
+
+#### To add other libraries do:
+
+    $ npm install --save [library-name]
