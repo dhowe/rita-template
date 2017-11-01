@@ -1,4 +1,4 @@
-## A simple template for RiTa projects (with node or the browser)
+## A simple template for RiTa projects (with node or the browser or p5.js)
 
 <br>
 
