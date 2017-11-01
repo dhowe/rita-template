@@ -1,0 +1,27 @@
+<html>
+
+<head>
+  <script src="./node_modules/p5/lib/p5.js"></script>
+  <script src="./node_modules/rita/lib/rita.js"></script>
+  <script>
+    function setup() {
+
+      createCanvas(400, 400);
+      textAlign(CENTER);
+      textFont('Times', 32);
+    }
+
+    function draw() {
+      background(245);
+      var words = RiTa.tokenize('The dog ate the professor.');
+      for (var i = 0; i < words.length; i++) {
+        text(words[i], width / 2, 100 + i * 40);
+      }
+    }
+  </script>
+</head>
+
+<body>
+</body>
+
+</html>
