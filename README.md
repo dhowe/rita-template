@@ -1,4 +1,4 @@
-## A simple template for RiTa projects (with node or the browser)
+## A simple template for RiTa projects (with node or the browser or p5.js)
 
 <br>
 
@@ -12,7 +12,11 @@
 
 <br>
 
-#### For the web, open the index.html file in the browser and check the console
+#### For the web, open the [index.html](https://github.com/dhowe/rita-template/blob/master/index.html) file in the browser
+
+<br>
+
+#### For the web (with p5.js), open the [p5js.html](https://github.com/dhowe/rita-template/blob/master/p5js.html) file in the browser
 
 <br>
 
