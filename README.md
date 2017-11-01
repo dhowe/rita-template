@@ -12,7 +12,11 @@
 
 <br>
 
-#### For the web, open the index.html file in the browser and check the console
+#### For the web, open the index.html file in the browser
+
+<br>
+
+#### For the web (with p5.js), open the p5js.html file in the browser
 
 <br>
 
