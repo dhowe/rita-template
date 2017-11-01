@@ -12,11 +12,11 @@
 
 <br>
 
-#### For the web, open the index.html file in the browser
+#### For the web, open the [index.html](https://github.com/dhowe/rita-template/blob/master/index.html) file in the browser
 
 <br>
 
-#### For the web (with p5.js), open the p5js.html file in the browser
+#### For the web (with p5.js), open the [p5js.html](https://github.com/dhowe/rita-template/blob/master/p5js.html) file in the browser
 
 <br>
 
